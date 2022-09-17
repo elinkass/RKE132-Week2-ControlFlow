@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation
+/Users/elinkass/Projects/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.deps.json
+/Users/elinkass/Projects/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.runtimeconfig.json
+/Users/elinkass/Projects/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.dll
+/Users/elinkass/Projects/UserAgeValidation/bin/Debug/net6.0/UserAgeValidation.pdb
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.AssemblyInfo.cs
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.dll
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/refint/UserAgeValidation.dll
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserAgeValidation.pdb
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/UserGenderValidation.genruntimeconfig.cache
+/Users/elinkass/Projects/UserAgeValidation/obj/Debug/net6.0/ref/UserAgeValidation.dll

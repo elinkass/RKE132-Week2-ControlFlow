@@ -1,0 +1,15 @@
+/Users/elinkass/Projects/Week2/bin/Debug/net6.0/Week2
+/Users/elinkass/Projects/Week2/bin/Debug/net6.0/Week2.deps.json
+/Users/elinkass/Projects/Week2/bin/Debug/net6.0/Week2.runtimeconfig.json
+/Users/elinkass/Projects/Week2/bin/Debug/net6.0/Week2.dll
+/Users/elinkass/Projects/Week2/bin/Debug/net6.0/Week2.pdb
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.csproj.AssemblyReference.cache
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.AssemblyInfoInputs.cache
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.AssemblyInfo.cs
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.csproj.CoreCompileInputs.cache
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.dll
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/refint/Week2.dll
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.pdb
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/Week2.genruntimeconfig.cache
+/Users/elinkass/Projects/Week2/obj/Debug/net6.0/ref/Week2.dll
